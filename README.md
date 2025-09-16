@@ -1,6 +1,6 @@
 # try-convert  [![NuGet Badge](https://buildstats.info/nuget/try-convert)](https://www.nuget.org/packages/try-convert/)
 
-This is a simple tool that will help in migrating .NET Framework projects to .NET Core.
+This is a simple tool that will help in migrating .NET Framework projects to .NET Core. 
 
 ## How to use it
 
